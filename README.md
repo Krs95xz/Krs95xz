@@ -21,9 +21,8 @@
 
 ## `>` Sobre mim
 
-Sou estudante da **Germinare TECH** e gosto de transformar ideias em
-projetos. Tenho interesse em desenvolvimento de software, jogos e
-tecnologia.
+Sou estudante da **Germinare TECH** do **Instituto J&F**. Tenho interesse em desenvolvimento de software, jogos e
+tecnologias.
 
 <br>
 
